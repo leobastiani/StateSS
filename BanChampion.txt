@@ -1,0 +1,150 @@
+
+
+AceitarConvite
+1392, 219. Esperado: 779093. PixelGetColor: 000000
+1392, 220. Esperado: 293035. PixelGetColor: 000000
+1392, 218. Esperado: B0D7DA. PixelGetColor: 000000
+1392, 221. Esperado: 1C2025. PixelGetColor: 000000
+1392, 217. Esperado: ABD0D2. PixelGetColor: 000000
+1392, 222. Esperado: 1D2227. PixelGetColor: 000000
+1392, 216. Esperado: 64797D. PixelGetColor: 000000
+1392, 223. Esperado: 1E2328. PixelGetColor: 000000
+1392, 215. Esperado: 22282D. PixelGetColor: 000000
+1392, 224. Esperado: 1E2328. PixelGetColor: 000000
+1392, 214. Esperado: 1C2126. PixelGetColor: 000000
+1392, 225. Esperado: 1E2328. PixelGetColor: 000000
+1392, 213. Esperado: 1D2227. PixelGetColor: 000000
+1392, 226. Esperado: 1E2328. PixelGetColor: 000000
+1392, 212. Esperado: 1E2328. PixelGetColor: 000000
+1392, 227. Esperado: 1C2126. PixelGetColor: 000000
+1392, 211. Esperado: 1E2328. PixelGetColor: 000000
+1392, 228. Esperado: 12242E. PixelGetColor: 000000
+1392, 210. Esperado: 1E2328. PixelGetColor: 000000
+1392, 229. Esperado: 02587B. PixelGetColor: 000000
+1392, 209. Esperado: 1E2328. PixelGetColor: 000000
+False
+
+
+AceitarPartida
+772, 691. Esperado: CDBE91. PixelGetColor: 212328
+771, 691. Esperado: BBAE86. PixelGetColor: 212328
+770, 691. Esperado: 535148. PixelGetColor: 212328
+769, 691. Esperado: BBAE86. PixelGetColor: 212328
+768, 691. Esperado: CDBE91. PixelGetColor: 212328
+767, 691. Esperado: 706C59. PixelGetColor: 212328
+766, 691. Esperado: 1E2328. PixelGetColor: 212328
+765, 691. Esperado: 1E2328. PixelGetColor: 212328
+764, 691. Esperado: 1E2328. PixelGetColor: 202228
+763, 691. Esperado: 1E2328. PixelGetColor: 212228
+762, 691. Esperado: 1E2328. PixelGetColor: 212228
+773, 691. Esperado: 8D856B. PixelGetColor: 202328
+774, 691. Esperado: 1E2328. PixelGetColor: 202328
+775, 691. Esperado: 1E2328. PixelGetColor: 202328
+776, 691. Esperado: 1E2328. PixelGetColor: 202328
+777, 691. Esperado: 5C594C. PixelGetColor: 202328
+778, 691. Esperado: C6B88C. PixelGetColor: 202328
+779, 691. Esperado: C4B68B. PixelGetColor: 202328
+780, 691. Esperado: 515147. PixelGetColor: 202328
+781, 691. Esperado: 1E2328. PixelGetColor: 202328
+782, 691. Esperado: 1E2328. PixelGetColor: 1F2228
+False
+
+
+Banir
+741, 86. Esperado: 490E15. PixelGetColor: 410D14
+742, 86. Esperado: 470E15. PixelGetColor: 3F0D14
+740, 86. Esperado: 490E15. PixelGetColor: 410D14
+743, 86. Esperado: 470E15. PixelGetColor: 3F0D14
+739, 86. Esperado: 4A0E15. PixelGetColor: 420D14
+744, 86. Esperado: 460D14. PixelGetColor: 3D0C13
+738, 86. Esperado: 4B0E15. PixelGetColor: 440D14
+745, 86. Esperado: 450E14. PixelGetColor: 3D0D13
+737, 86. Esperado: 4E0F16. PixelGetColor: 450E15
+746, 86. Esperado: 440D14. PixelGetColor: 3B0C13
+736, 86. Esperado: 4E0F17. PixelGetColor: 460E16
+747, 86. Esperado: 440D14. PixelGetColor: 3C0C13
+735, 86. Esperado: 4F1017. PixelGetColor: 470F16
+748, 86. Esperado: 440D13. PixelGetColor: 3C0C12
+734, 86. Esperado: 501018. PixelGetColor: 480F17
+749, 86. Esperado: 440C13. PixelGetColor: 3B0B12
+733, 86. Esperado: 501018. PixelGetColor: 480F17
+750, 86. Esperado: 430C13. PixelGetColor: 3A0B12
+732, 86. Esperado: 511018. PixelGetColor: 490F17
+751, 86. Esperado: 420C12. PixelGetColor: 390B11
+731, 86. Esperado: 531118. PixelGetColor: 4B1017
+False
+
+
+EscolherChampion
+741, 86. Esperado: 022B32. PixelGetColor: 410D14
+742, 86. Esperado: 022A32. PixelGetColor: 3F0D14
+740, 86. Esperado: 022B33. PixelGetColor: 410D14
+743, 86. Esperado: 022A32. PixelGetColor: 3F0D14
+739, 86. Esperado: 022C34. PixelGetColor: 420D14
+744, 86. Esperado: 022B32. PixelGetColor: 3D0C13
+738, 86. Esperado: 032C34. PixelGetColor: 440D14
+745, 86. Esperado: 022B31. PixelGetColor: 3D0D13
+737, 86. Esperado: 032B34. PixelGetColor: 450E15
+746, 86. Esperado: 022A31. PixelGetColor: 3B0C13
+736, 86. Esperado: 032B34. PixelGetColor: 460E16
+747, 86. Esperado: 022A31. PixelGetColor: 3C0C13
+735, 86. Esperado: 032C35. PixelGetColor: 470F16
+748, 86. Esperado: 022930. PixelGetColor: 3C0C12
+734, 86. Esperado: 032C36. PixelGetColor: 480F17
+749, 86. Esperado: 022930. PixelGetColor: 3B0B12
+733, 86. Esperado: 032C36. PixelGetColor: 480F17
+750, 86. Esperado: 022A31. PixelGetColor: 3A0B12
+732, 86. Esperado: 032D36. PixelGetColor: 490F17
+751, 86. Esperado: 022A31. PixelGetColor: 390B11
+731, 86. Esperado: 032D36. PixelGetColor: 4B1017
+False
+
+
+Login
+1245, 190. Esperado: D9A848. PixelGetColor: F0E6D2
+1246, 190. Esperado: 010A7E. PixelGetColor: E6DDC9
+1244, 190. Esperado: F0E6D2. PixelGetColor: DFD5C3
+1247, 190. Esperado: CAE6D2. PixelGetColor: 6A625A
+1243, 190. Esperado: F0E6D2. PixelGetColor: 534D46
+1248, 190. Esperado: F0D190. PixelGetColor: 050000
+1242, 190. Esperado: F0DFCC. PixelGetColor: 060000
+1249, 190. Esperado: 530A13. PixelGetColor: 050000
+1241, 190. Esperado: E1E6D2. PixelGetColor: 060000
+1250, 190. Esperado: 010A13. PixelGetColor: 050000
+1240, 190. Esperado: 016A9C. PixelGetColor: 060000
+1251, 190. Esperado: 0193AE. PixelGetColor: 050000
+1239, 190. Esperado: 010A13. PixelGetColor: 060000
+1252, 190. Esperado: F0E6D2. PixelGetColor: 453E39
+1238, 190. Esperado: 010A13. PixelGetColor: 877E73
+1253, 190. Esperado: F0E6A8. PixelGetColor: D8CFBD
+1237, 190. Esperado: D9A842. PixelGetColor: ECE2CE
+1254, 190. Esperado: 870A13. PixelGetColor: F0E6D2
+1236, 190. Esperado: F0E6D2. PixelGetColor: EDE3CF
+1255, 190. Esperado: 010A13. PixelGetColor: EDE3CF
+1235, 190. Esperado: B4D8D2. PixelGetColor: B0A798
+False
+
+
+PorLane
+643, 520. Esperado: 115A66. PixelGetColor: 421B28
+644, 520. Esperado: 115A66. PixelGetColor: 4F3025
+642, 520. Esperado: 1D262B. PixelGetColor: 431D28
+645, 520. Esperado: 1D262B. PixelGetColor: 413319
+641, 520. Esperado: 1E2328. PixelGetColor: 3C1C29
+646, 520. Esperado: 1E2328. PixelGetColor: 524021
+640, 520. Esperado: 1E2328. PixelGetColor: 3B1B27
+647, 520. Esperado: 1E2328. PixelGetColor: 6D3D30
+639, 520. Esperado: 1E2328. PixelGetColor: 341721
+648, 520. Esperado: 1E2328. PixelGetColor: 6D3930
+638, 520. Esperado: 1E2328. PixelGetColor: 361921
+649, 520. Esperado: 1E2328. PixelGetColor: 7B4635
+637, 520. Esperado: 1E2328. PixelGetColor: 6B423A
+650, 520. Esperado: 1E2328. PixelGetColor: 834D36
+636, 520. Esperado: 1E2328. PixelGetColor: 603D36
+651, 520. Esperado: 1E2328. PixelGetColor: 79412E
+635, 520. Esperado: 1E2328. PixelGetColor: 472A2A
+652, 520. Esperado: 1E2328. PixelGetColor: 71392D
+634, 520. Esperado: 1E2328. PixelGetColor: 5B382F
+653, 520. Esperado: 1E2328. PixelGetColor: 5E2D26
+633, 520. Esperado: 1E2328. PixelGetColor: 613C30
+False

@@ -1,0 +1,1 @@
+HotKeySet("Button 3", "[function]")

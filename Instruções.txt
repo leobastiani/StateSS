@@ -1,0 +1,6 @@
+Utilize descompactado. O Cliente do LoL deve estar com a janela de tamanho 1280x720.
+
+Shift+Igual : Abre a janela de configuração.
+Ctrl+Shift+Igual : Igual ao comando de cima, mas é persistente.
+Zero : Pausa o programa.
+9 : Fecha o programa.
